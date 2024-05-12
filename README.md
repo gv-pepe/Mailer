@@ -10,11 +10,6 @@ https://app.sendgrid.com/
 
 Para instalar las dependencias necesarias, ejecuta el siguiente comando en la consola:
 
-
-#### Instalando dependencias:
-
-Para instalar las dependencias necesarias, ejecuta el siguiente comando en la consola:
-
 ````
 npm install
 ````
